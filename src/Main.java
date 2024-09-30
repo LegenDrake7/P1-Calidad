@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Paso 3");
 		System.out.println("Paso 6");
 		System.out.println("Paso 7");
+		
 	}
 
 }
