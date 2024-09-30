@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Paso 3");
 		System.out.println("Paso 5");
 		System.out.println("Paso 8");
+		System.out.println("Paso 10, abandono de esta rama");
 	}
 
 }
